@@ -17,3 +17,4 @@ int main() //Main function. The other ones will be called from this one.
 		return 0 -> Returns to the standard O.S. if the code runned without errors.
 	*/
 } // End of a code block.
+// Part of Marcos Pacheco's C++ course in Udemy.
